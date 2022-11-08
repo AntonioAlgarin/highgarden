@@ -11,4 +11,4 @@ function Plant() {
   );
 }
 
-export default App;
+export default Plant;
